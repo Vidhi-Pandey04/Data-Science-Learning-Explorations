@@ -1,0 +1,7 @@
+Name,Subject,Marks,Age,Pass
+Vidhi,Math,88.0,24.0,True
+Aryan,Physics,79.0,0.0,True
+Neha,Chemistry,82.8,22.0,True
+Raj,Math,85.0,25.0,True
+Unknown,CS,95.0,21.0,True
+Manav,Biology,67.0,22.0,False

@@ -1,0 +1,10 @@
+{
+    "name": "Vidhi",
+    "course": "Data Science",
+    "completed": true,
+    "marks": [
+        88,
+        92,
+        79
+    ]
+}
